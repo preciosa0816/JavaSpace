@@ -1,0 +1,19 @@
+
+/*TextField안에서 프롬프트가 깜빡일 때*/
+TextField:focused{
+	-fx-border-color : skyblue;
+	-fx-background-color:yellow;
+}
+
+/*마우스가 버튼 위에 있는 상태일 때*/
+Button:hover{
+	-fx-border-color : skyblue;
+	-fx-background-color:hotpink;
+	
+}
+/*마우스가 버튼을 클릭한 상태 */
+Button:pressed{
+	-border-color:skyblue;
+	-fx-background-color:red;
+	
+}

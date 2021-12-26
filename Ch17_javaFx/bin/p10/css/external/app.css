@@ -1,0 +1,21 @@
+
+/* 전체 Label 선택 -라벨안에 있는 공통내용 */
+Label{
+	-fx-padding:5;
+}
+
+/* id="lblId"를 가진 컨트롤 선택 */
+#lblId{
+	-fx-background-color:black; 
+	-fx-text-fill:yellow;
+}
+
+/* styleClass="lblClass"를 가진 컨트롤 선택(점(.):class) */
+
+.lblClass{
+	-fx-background-color:blue; 
+	-fx-text-fill:white;
+	
+}
+
+

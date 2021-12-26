@@ -1,0 +1,24 @@
+#vbox1{
+	-fx-background-color: rgba(0, 0, 0, 1);
+}
+#vbox2{ /*to 진행방향, 시작색 S%, 중간색 M%, 끝색*/
+	-fx-background-color: linear-gradient(to right, #000000, #ffffff);
+}
+#vbox3{/*center X% Y%, radius R%,  시작색 S%, 중간색 M%, 끝색-원형그라디언트 */
+	-fx-background-color: radial-gradient(center 50% 50%, radius 50%, #ffffff, #000000);
+}
+#vbox4{/*배경이미지보다 컨테이너 및 컨트롤의 사이즈가 더 크면 이미지는 반복적으로 드로잉됨*/
+	-fx-border-color: skyblue;
+	-fx-background-image: url("images/icon.gif");
+}
+#vbox5{/*이미지 반복제거 */
+	-fx-border-color: skyblue;
+	-fx-background-image: url("images/icon.gif");
+	-fx-background-repeat: no-repeat;
+}
+#vbox6{/*이미지 반복 제거+정중앙에 위치 */
+	-fx-border-color: skyblue;
+	-fx-background-image: url("images/icon.gif");
+	-fx-background-repeat: no-repeat;
+	-fx-background-position: center;
+}

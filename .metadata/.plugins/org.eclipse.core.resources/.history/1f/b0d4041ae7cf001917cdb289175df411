@@ -1,0 +1,14 @@
+package test1;
+
+public class 변환_2진수_10진수 {
+
+	public static void main(String[] args) {
+		int b[] = { 0, 1, 0, 1, 0 };
+		int k=0;
+		for(int i=0;i<b.length;i++) {
+			k+=b[i]*Math.pow(2, 4-i);
+		}
+		System.out.println(k);
+	}
+
+}

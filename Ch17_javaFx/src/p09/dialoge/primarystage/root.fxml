@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.HBox?>
+
+
+<HBox prefHeight="49.0" prefWidth="643.0" spacing="10.0" 
+xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8"
+fx:controller="p09.dialoge.RootController">
+   <children>
+      <Button alignment="CENTER" mnemonicParsing="false" text="Open FileChooser" />
+      <Button contentDisplay="CENTER" mnemonicParsing="false" text="Save FileChooser" />
+      <Button contentDisplay="CENTER" mnemonicParsing="false" text="DirectoryChooser" />
+      <Button fx:id="btnPopup" contentDisplay="CENTER" mnemonicParsing="false" text="Popup" />
+      <Button fx:id="btnCustom" contentDisplay="CENTER" mnemonicParsing="false" text="Custom" />
+   </children>
+   <padding>
+      <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+   </padding>
+</HBox>

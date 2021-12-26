@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;test1.Ch3_변환_2진수_10진수&apos; to &apos;Ch3_변환_2진수_10진수_D&apos;&#x0D;&#x0A;- Original project: &apos;test&apos;&#x0D;&#x0A;- Original element: &apos;test1.Ch3_변환_2진수_10진수&apos;&#x0D;&#x0A;- Renamed element: &apos;test1.Ch3_변환_2진수_10진수_D&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Ch3_변환_2진수_10진수&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;test1{Ch3_변환_2진수_10진수.java[Ch3_변환_2진수_10진수" matchStrategy="1" name="Ch3_변환_2진수_10진수_D" qualified="false" references="true" similarDeclarations="false" stamp="1568555916539" textual="false" version="1.0"/>
+</session>

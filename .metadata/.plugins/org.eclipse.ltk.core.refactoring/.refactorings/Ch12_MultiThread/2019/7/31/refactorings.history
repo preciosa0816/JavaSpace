@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;p08.thread_group.ThreadInfoExample&apos; to &apos;ThreadInforExample&apos;&#x0D;&#x0A;- Original project: &apos;Ch12_MultiThread&apos;&#x0D;&#x0A;- Original element: &apos;p08.thread_group.ThreadInfoExample&apos;&#x0D;&#x0A;- Renamed element: &apos;p08.thread_group.ThreadInforExample&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ThreadInfoExample&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;p08.thread_group{ThreadInfoExample.java[ThreadInfoExample" matchStrategy="1" name="ThreadInforExample" qualified="false" references="true" similarDeclarations="false" stamp="1564364641461" textual="false" version="1.0"/>
+</session>
